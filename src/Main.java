@@ -22,6 +22,7 @@ public class Main {
                 Hellsing hellsing = new Hellsing(2000, "Kota Hirano", "13");
                 return hellsing;
 
+
         }
         return null;
     }
